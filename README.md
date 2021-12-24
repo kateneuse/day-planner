@@ -9,3 +9,4 @@ if the user refereshes the app, their information will still be there.
 The green color in a time block represents the current time block. The red time blocks represent
 the timeblocks that haven't happened yet, and the grey time blocks have alreay happened.
 
+![Day Planner](dayPlanner.jpg)
